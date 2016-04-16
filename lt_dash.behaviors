@@ -1,0 +1,4 @@
+[
+ [:app :lt.objs.plugins/load-js "lt_dash_compiled.js"]
+ []
+ ]
