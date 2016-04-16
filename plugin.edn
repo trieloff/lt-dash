@@ -1,6 +1,6 @@
 {:name "lt_dash"
  :version "0.0.1"
  :author "Lars Trieloff"
- :source ""
+ :source "https://github.com/trieloff/lt-dash"
  :desc "Search for documentation in Dash"
  :behaviors "lt_dash.behaviors"}
